@@ -16,28 +16,28 @@
 **Positive**
 
 | Pronome | Verb + negative | Contraint |
-|---|---|---|---|---| 
-| I | am | I'm |
-| He | is | He's |
-| She | is | She's |
-| It | is | It's |
-| We | are | We're |
-| You | are | You're |
-| They | are | They're |
+|---      |---              |---        | 
+| I       | am              | I'm       |
+| He      | is              | He's      |
+| She     | is              | She's     |
+| It      | is              | It's      |
+| We      | are             | We're     |
+| You     | are             | You're    |
+| They    | are             | They're   |
 
 
 
 **Negative**
 
-| Pronome | Verb + negative | Contraint |
-|---|---|---|---|---| 
-| I | am not | I'm not |
-| He | is not | He's not or He isn't |
-| She | is not | She's not or She isn't |
-| It | is  not | It's  not or It isn't |
-| We | are not | We're not or Wer aren't |
-| You | are not | You're not or You aren't |
-| They | are not | They're not or They aren't |
+| Pronome | Verb + negative | Contraint                  |
+|---      |---              |---                         | 
+| I       | am not          | I'm not                    |
+| He      | is not          | He's not or He isn't       |
+| She     | is not          | She's not or She isn't     |
+| It      | is  not         | It's  not or It isn't      |
+| We      | are not         | We're not or Wer aren't    |
+| You     | are not         | You're not or You aren't   |
+| They    | are not         | They're not or They aren't |
 
 * I'm cold. Can you close the window, please?
 * I'm 25 years old. My sister is 30.
