@@ -15,6 +15,8 @@
 #### B
 **Positive**
 
+| Pronome | Verb + negative | Contraint |
+|---|---|---|---|---| 
 | I | am | I'm |
 | He | is | He's |
 | She | is | She's |
@@ -23,7 +25,12 @@
 | You | are | You're |
 | They | are | They're |
 
+
+
 **Negative**
+
+| Pronome | Verb + negative | Contraint |
+|---|---|---|---|---| 
 | I | am not | I'm not |
 | He | is not | He's not or He isn't |
 | She | is not | She's not or She isn't |
