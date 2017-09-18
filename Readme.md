@@ -57,3 +57,71 @@
 * Thank you. That's very kind of you.
 * Look! There's Christina.
 * Here's your key
+
+
+### Unit 2
+#### A
+##### am/is/are (questions)
+
+
+**Positive**
+
+| Pronome | Verb        |
+|---      |---          | 
+| I       | am          |
+| He      | is          |
+| She     | is          |
+| It      | is          |
+| We      | are         |
+| You     | are         |
+| They    | are         |
+
+**Questions**
+
+| Verb | Pronome        |
+|---      |---          | 
+| am      | I?          |
+| is      | He?         |
+| is      | She?        |
+| is      | it?         |
+| Are     | we?         |
+| Are     | you?        |
+| Are     | they?       |
+
+
+
+* 'Am I late?' 'No, you're on time'
+* 'Is your mother at home? 'No, she's out'
+* Is it cold in your room?' 'Yes, a little'
+* Your shoes are nice. Are they new?
+
+
+We say:
+
+* Is she at home? / Is your mother at home? ( ***not*** Is at home your mother?)
+* Are they new? / Are your shoes new? ( ***not*** Are new yout shoes?)
+
+#### B
+#### Where...? / What...? / Who...? / How...? / Why...?
+ 
+* ***Where is*** your mother? Is she at home?
+* ***Where are*** you from? 'Canada'
+* ***What colour is***  your car?  'It's red'
+* ***How old is*** Joe?  'He's 24'
+* These poscards are nice. ***How much are*** they?
+* This hotel isn't very good. ***Why is*** to so expensive?
+
+# What's = what is / who's = who is / how's = how is / where's = where is
+
+* What's the time?
+* Where's Lucy?
+* Who's that man?
+* How's your father?
+
+### C
+
+* 'Are you tired' 'Yes, I am.'
+* Are you hungry?' 'No, I'm not, but I'm thirsty.'
+* Is your friend English?' 'Yes, he is'
+* 'Are these your keys?' Yes, they are.
+* 'That's my seat.' No, it isn't
