@@ -125,3 +125,49 @@ We say:
 * Is your friend English?' 'Yes, he is'
 * 'Are these your keys?' Yes, they are.
 * 'That's my seat.' No, it isn't
+
+
+
+### Youtube English
+
+#### How to respond to people with normal expressions
+
+* Oh, I see.
+* Right!
+* That's interesting.
+
+#### When you're going to say something cool.
+
+* You won't believe this! (Você não vai acreditar nisso...) I'm moving to London!
+* You'll never ***guess***! (Você não vai acreditar)
+
+#### Common news
+
+* Have you heard...?
+
+#### Answer an exciting question
+* No way! ( jura?! Não acredito! )
+* You're kidding/You're joking! ( Você está brincando )
+* I can't belive that (eu não acredito)
+* Really?
+* That's terrible( bad ) / amazing / nice / terrific / awesome
+
+#### Demonstrate interest in what the person is talking about
+
+- A: She went to the beach
+- B: Did she
+-------------------
+- A: I don't like soccer.
+- B: Don't you? (Você não gosta)
+
+#### When it was not understood what was said
+
+* I don't understand. (Eu não entendo)
+* I didn't get it. (Eu não entendi)
+* Could you repeat that?
+* What do you mean?
+* Can you explain that?
+* What are you talking about?
+* What I mean is... (eu quero dizer...)
+* In other words...
+
